@@ -1,0 +1,10 @@
+ultralytics==8.4.155
+torch==2.8.0
+torchvision==0.23.0
+opencv-python==4.11.0.86
+numpy==1.26.4
+Pillow==10.4.0
+gradio==4.44.1
+matplotlib==3.9.4
+PyYAML==6.0.3
+pandas==2.3.3

@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# YOLO / training outputs
+runs/
+*.pth
+*.onnx
+
+# Dataset images and labels
+YOLO_DATASET/images/
+YOLO_DATASET/labels/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+
+# Raw dataset images
+IMAGES/
+ANNOTATIONS/
+yolo11n.pt
