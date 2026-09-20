@@ -115,13 +115,25 @@ Held-out Test Evaluation
       ↓
 Prediction Visualization
       ↓
-Final Model Training
-      |
-      v
-Held-out Test Evaluation
-      |
-      v
-Prediction Visualization
-      |
-      v
-SteelVision-AI Inference Application
+
+## Application Screenshots
+
+### Main Interface
+
+![SteelVision-AI Main Interface](screenshots/1.png)
+
+### Detection Interface
+
+![Steel Defect Detection](screenshots/2.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/3.png)
+
+### Crazing Detection
+
+![Crazing Detection](screenshots/4.png)
+
+### Additional Result
+
+![Additional Steel Defect Result](screenshots/5.png)
