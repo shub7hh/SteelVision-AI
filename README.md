@@ -115,4 +115,13 @@ Held-out Test Evaluation
       ↓
 Prediction Visualization
       ↓
-Final Model
+Final Model Training
+      |
+      v
+Held-out Test Evaluation
+      |
+      v
+Prediction Visualization
+      |
+      v
+SteelVision-AI Inference Application
